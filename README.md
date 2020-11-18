@@ -3,7 +3,7 @@
 
 > Using HTML and BOOTSTRAP . build a copy idea of an Travel Website and name it Travelo.NL ,it is Responsive Website 
 
-### ✨ [https://mosaif00.github.io/Netherlands-Travel-Agency-Practice/)
+### ✨ [Demo](https://mosaif00.github.io/Netherlands-Travel-Agency-Practice/)
 
 ![alt text](screen1.gif)
 ![alt text](screen2.gif)
